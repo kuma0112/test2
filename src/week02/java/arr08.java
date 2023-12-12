@@ -10,7 +10,6 @@ public class arr08 {
         Set<Integer> integers = new HashSet();
         integers.add(3);
 
-        Integer get = integers.get(3);
 
     }
 }
