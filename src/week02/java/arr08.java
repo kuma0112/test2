@@ -10,7 +10,8 @@ public class arr08 {
         Set<Integer> integers = new HashSet();
         //추가추가!!
         //안녕하세요 신지님 거긴 행복하신가요??
-        //
-//        11
+        integers.add(3);
+        //안녕하세요 신지님 거긴 행복하신가요??
+
     }
 }
