@@ -7,7 +7,7 @@ import java.util.TreeSet;
 
 public class arr08 {
     public static void main(String[] args) {
-        Set<Integer> integers = new HashSet();
+       //2주 뒤에 크리스마스!!!
 
     }
 }
